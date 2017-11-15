@@ -1,9 +1,9 @@
 # Site settings
-title: YUKI Blog
+title: 只是道寻常
 SEOTitle: Yuki的博客 | Yuki Blog
 header-img: img/home-bg.jpg
 email: yuki9965@163.com
-description: "与你一起发现更大的世界"
+description: "人生苦短，我用python"
 keyword: "Python"
 url: "https://yuki9965.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
